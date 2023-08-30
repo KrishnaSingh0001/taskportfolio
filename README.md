@@ -18,7 +18,7 @@
         <table>
             <tr>
                 <td>
-                    <img src="https://media.licdn.com/dms/image/D4D03AQFNcsyEZaY9xg/profile-displayphoto-shrink_100_100/0/1688997695515?e=1696464000&v=beta&t=1FfcDeMUlquDSZSgimwN200YPV32-tDp4CoXu5B0l0Y" alt="Krishna Singh">
+                    <img src="https://media.licdn.com/dms/image/D4D03AQFNcsyEZaY9xg/profile-displayphoto-shrink_100_100/0/1688997695515?e=1696464000&v=beta&t=1FfcDeMUlquDSZSgimwN200YPV32-tDp4CoXu5B0l0Y" alt="Krishna Singh"> width = "100
                 </td>
                 <td>I am a Passinate software engineer with expertise in problem solving and algorithm thinking . I love to explore various techonology and frame work to develope efficient and scable solutions. With a strong foundation in data structure and algorithm , I strive to create robust and optimized code . I am constantly expanding my skill and staying up-to-date with the latest advancements in the field of software development. </td>
             </tr>
